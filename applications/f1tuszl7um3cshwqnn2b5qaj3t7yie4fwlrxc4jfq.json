@@ -36,12 +36,12 @@
     "Weekly Allocation": "1.5PiB"
   },
   "Lifecycle": {
-    "State": "Granted",
+    "State": "ReadyToSign",
     "Validated At": "2024-04-20 09:10:18.746991421 UTC",
     "Validated By": "nj-steve",
     "Active": true,
-    "Updated At": "2024-05-10 08:30:49.345523410 UTC",
-    "Active Request ID": "172a2c00-0ed5-4785-8ea8-4d3a4ba1f11b",
+    "Updated At": "2024-05-10 09:00:06.579830970 UTC",
+    "Active Request ID": "29934927-d2d6-4849-abcf-0632f30881c8",
     "On Chain Address": "f1tuszl7um3cshwqnn2b5qaj3t7yie4fwlrxc4jfq",
     "Multisig Address": "false",
     "edited": false
@@ -78,6 +78,15 @@
           "Message CID": "bafy2bzacedojiqqfqqtlt4zttdnxjsm7oos3b66awr4zwyrmgwvodjea46tni"
         }
       ]
+    },
+    {
+      "ID": "29934927-d2d6-4849-abcf-0632f30881c8",
+      "Request Type": "Refill",
+      "Created At": "2024-05-10 09:00:06.579841357 UTC",
+      "Updated At": "2024-05-10 09:00:06.579842958 UTC",
+      "Active": true,
+      "Allocation Amount": "1PiB",
+      "Signers": []
     }
   ]
 }
