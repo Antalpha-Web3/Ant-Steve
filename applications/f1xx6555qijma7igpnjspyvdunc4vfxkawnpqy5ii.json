@@ -12,7 +12,6 @@
     "Role": "Dataset Owner"
   },
   "Project": {
-    "Project Id": "1052",
     "Brief history of your project and organization": "Share a brief history of your project and organization",
     "Is this project associated with other projects/ecosystem stakeholders?": "No",
     "Describe the data being stored onto Filecoin": "Describe the data being stored onto Filecoin",
@@ -36,14 +35,15 @@
     "Weekly Allocation": "1000TiB"
   },
   "Lifecycle": {
-    "State": "Submitted",
+    "State": "KYCRequested",
     "Validated At": "",
     "Validated By": "",
     "Active": true,
-    "Updated At": "2024-04-07 08:30:54.306793831 UTC",
+    "Updated At": "2024-07-26 12:36:20.882190669 UTC",
     "Active Request ID": "",
     "On Chain Address": "f1xx6555qijma7igpnjspyvdunc4vfxkawnpqy5ii",
-    "Multisig Address": "false"
+    "Multisig Address": "false",
+    "edited": null
   },
   "Allocation Requests": []
 }
