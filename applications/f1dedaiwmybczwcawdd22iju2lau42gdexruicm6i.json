@@ -35,11 +35,11 @@
     "Weekly Allocation": "1PiB"
   },
   "Lifecycle": {
-    "State": "ReadyToSign",
+    "State": "Granted",
     "Validated At": "2024-08-23 07:33:50.533640633 UTC",
     "Validated By": "nj-steve",
     "Active": true,
-    "Updated At": "2024-08-23 07:33:50.533645769 UTC",
+    "Updated At": "2024-08-23 07:35:08.910098262 UTC",
     "Active Request ID": "f67dff68-07e8-4f25-ada5-6080135dda69",
     "On Chain Address": "f1dedaiwmybczwcawdd22iju2lau42gdexruicm6i",
     "Multisig Address": "false",
@@ -51,9 +51,16 @@
       "Request Type": "First",
       "Created At": "2024-08-23 07:33:50.533648496 UTC",
       "Updated At": "2024-08-23 07:33:50.533650191 UTC",
-      "Active": true,
+      "Active": false,
       "Allocation Amount": "500TiB",
-      "Signers": []
+      "Signers": [
+        {
+          "Github Username": "nj-steve",
+          "Signing Address": "f1xx6555qijma7igpnjspyvdunc4vfxkawnpqy5ii",
+          "Created At": "2024-08-23 07:35:06.505000000 UTC",
+          "Message CID": "bafy2bzacebvurx3qbc6v7syqib5lrcysuctoylbry7lxinw7uwqvkhlj4zmj6"
+        }
+      ]
     }
   ]
 }
