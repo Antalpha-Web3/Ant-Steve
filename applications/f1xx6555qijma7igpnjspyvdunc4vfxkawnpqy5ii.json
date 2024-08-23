@@ -35,15 +35,25 @@
     "Weekly Allocation": "1000TiB"
   },
   "Lifecycle": {
-    "State": "KYCRequested",
-    "Validated At": "",
-    "Validated By": "",
+    "State": "ReadyToSign",
+    "Validated At": "2024-08-23 07:32:42.950407178 UTC",
+    "Validated By": "nj-steve",
     "Active": true,
-    "Updated At": "2024-07-26 12:36:20.882190669 UTC",
-    "Active Request ID": "",
+    "Updated At": "2024-08-23 07:32:42.950412599 UTC",
+    "Active Request ID": "ed78a303-c3d4-4c4a-8649-816e5c1ac1ee",
     "On Chain Address": "f1xx6555qijma7igpnjspyvdunc4vfxkawnpqy5ii",
     "Multisig Address": "false",
     "edited": null
   },
-  "Allocation Requests": []
+  "Allocation Requests": [
+    {
+      "ID": "ed78a303-c3d4-4c4a-8649-816e5c1ac1ee",
+      "Request Type": "First",
+      "Created At": "2024-08-23 07:32:42.950415276 UTC",
+      "Updated At": "2024-08-23 07:32:42.950417041 UTC",
+      "Active": true,
+      "Allocation Amount": "512TiB",
+      "Signers": []
+    }
+  ]
 }
